@@ -1,8 +1,7 @@
 # RED LIGHT - SPECIALIZATION PROJECT
 
 <aside>
-👤 **팀장** : 조은비
-**팀원** : 공한울, 김유진, 김태연, 변유정, 최원준
+👤 **팀원** : 공한울, 김유진, 김태연, 변유정, 최원준
 
 </aside>
 
